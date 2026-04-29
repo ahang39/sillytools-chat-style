@@ -1,0 +1,11 @@
+{
+    "display_name": "绿叶菜-聊天样式",
+    "loading_order": 15,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "绿叶菜",
+    "version": "1.0.0",
+    "description": "自定义聊天字体大小和行高"
+}
